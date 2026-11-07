@@ -1,0 +1,34 @@
+metric,response,respondents_selecting,percent_of_sample,response_type
+Symptom prevalence,Cramps / pain,227,72.5,Multiple response
+Symptom prevalence,Mood swings / anxiety,214,68.4,Multiple response
+Symptom prevalence,Fatigue / low energy,193,61.7,Multiple response
+Symptom prevalence,Bloating,145,46.3,Multiple response
+Symptom prevalence,Headache / body ache,116,37.1,Multiple response
+Symptom prevalence,Digestion issues,82,26.2,Multiple response
+Symptom prevalence,Skin issues,69,22.0,Multiple response
+Symptom prevalence,Sleep disturbance,65,20.8,Multiple response
+Routine duration,0–5 days,97,31.0,Single response
+Routine duration,6–10 days,73,23.3,Single response
+Routine duration,11–20 days,87,27.8,Single response
+Routine duration,21–28 days,38,12.1,Single response
+Routine duration,28+ days,0,0.0,Single response
+Routine barrier,Busy routine,189,60.4,Multiple response
+Routine barrier,Forgetting,170,54.3,Multiple response
+Routine barrier,Cost,65,20.8,Multiple response
+Routine barrier,Fear of side effects,63,20.1,Multiple response
+Routine barrier,No visible benefit,62,19.8,Multiple response
+Routine barrier,Travel,50,16.0,Multiple response
+Routine barrier,Too many products,45,14.4,Multiple response
+Routine barrier,Taste / texture,0,0.0,Multiple response
+Preferred format,Capsules,129,41.2,Up to two responses
+Preferred format,Gummies,121,38.7,Up to two responses
+Preferred format,Teas,111,35.5,Up to two responses
+Preferred format,Traditional formats,65,20.8,Up to two responses
+Preferred format,Effervescent tablets,43,13.7,Up to two responses
+Preferred format,Powders,37,11.8,Up to two responses
+Preferred format,Wellness shots,36,11.5,Up to two responses
+Trust driver,Doctor / expert recommendation,0,0.0,Multiple response
+Trust driver,Safety & compliance,0,0.0,Multiple response
+Trust driver,Clinical / scientific validation,0,0.0,Multiple response
+Trust driver,Real user outcomes,147,47.0,Multiple response
+Trust driver,Ingredient transparency,138,44.1,Multiple response
